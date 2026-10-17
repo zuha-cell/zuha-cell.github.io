@@ -1,13 +1,15 @@
 [
   {
     "relation": [
-      "delegate_permission/common.handle_all_urls"
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
     ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.mzndigital.guardianxsos",
       "sha256_cert_fingerprints": [
-        "00:F6:97:32:38:7C:D2:CD:38:12:49:B5:80:1A:F9:28:02:F1:9B:F5:1C:6A:6D:8C:6B:17:23:92:63:72:8F:43"
+        "00:F6:97:32:38:7C:D2:CD:38:12:49:B5:80:1A:F9:28:02:F1:9B:F5:1C:6A:6D:8C:6B:17:23:92:63:72:8F:43",
+        "03:49:B2:67:5A:07:A2:FF:CD:29:0D:44:2B:8E:6B:17:0B:1A:6C:A6:77:38:F3:B9:BE:97:49:C4:2B:01:EA:3D"
       ]
     }
   }
