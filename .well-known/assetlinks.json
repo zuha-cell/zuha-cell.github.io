@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mzndigital.guardianxsos",
+      "sha256_cert_fingerprints": [
+        "00:F6:97:32:38:7C:D2:CD:38:12:49:B5:80:1A:F9:28:02:F1:9B:F5:1C:6A:6D:8C:6B:17:23:92:63:72:8F:43"
+      ]
+    }
+  }
+]
